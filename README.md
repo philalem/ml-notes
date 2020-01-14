@@ -1,7 +1,7 @@
 # ml-notes
 notes for any dev who may be interested in learning machine learning basics
 
-## table of context:
+## table of contents:
 [what is it?](#what-is-it)\
 [why use it?](#why-use-it)\
 [two types of learning...](#two-types-of-learning)\
