@@ -84,15 +84,15 @@ it basically controls how quickly the model adapts to the problem…also called 
 this combination is powerful in the way that you can also define how many trees that will be created and the depth of the trees while also having the advantages of random forest.
 
 ## a great youtube series!
-this is a great video series for some of the most important machine learning topics:
+this is a great video series for some of the most important machine learning topics:\
 https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF
 
 **sources I used to create this overview:**\
-https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF
-https://www.merriam-webster.com/dictionary/machine%20learning
-https://medium.com/quick-code/regression-versus-classification-machine-learning-whats-the-difference-345c56dd15f7
-https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/
-https://towardsdatascience.com/decision-trees-in-machine-learning-641b9c4e8052
+https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF \
+https://www.merriam-webster.com/dictionary/machine%20learning \
+https://medium.com/quick-code/regression-versus-classification-machine-learning-whats-the-difference-345c56dd15f7 \
+https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/ \
+https://towardsdatascience.com/decision-trees-in-machine-learning-641b9c4e8052 \
 https://towardsdatascience.com/understanding-random-forest-58381e0602d2
 
 
