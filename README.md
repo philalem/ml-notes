@@ -58,9 +58,9 @@ for the most part, while training these models and creating these algorithms, ou
 # let’s look at a few machine learning algorithms… 
 
 ## decision tree
-before we learn about the decision tree algorithm, we need to learn about a decision tree. Take the picture below as an example. this tree predicts the likelihood of a passenger’s survival on the titanic. at each feature (“is sex male,” “is age greater than 9.5 years,” “is the number of spouses and/or children the individual has greater than 2.5”) answer yes (move down & left) or no (move down & right) until you reach a prediction (died or survived) with the probability ( from 0-1).
+before we learn about the decision tree algorithm, we need to learn about a decision tree. take the picture below as an example. this tree predicts the likelihood of a passenger’s survival on the titanic. at each feature (“is sex male,” “is age greater than 9.5 years,” “is the number of spouses and/or children the individual has greater than 2.5”) answer yes (move down & left) or no (move down & right) until you reach a prediction (died or survived) with the probability ( from 0-1).
 
-![decision tree example](ml-notes/images/decision_tree_titanic.png)
+![decision tree example](https://upload.wikimedia.org/wikipedia/commons/f/f3/CART_tree_titanic_survivors.png)\
 Source: https://en.wikipedia.org/wiki/Decision_tree_learning
 
 
@@ -76,7 +76,7 @@ adaboost will work in a similar manner as the random forest algorithm (in most c
 ## gboost
 gboost works similar to adaboost in the same way it takes into account the previous tree’s mistakes in order to create the next tree; however, each tree will be scaled to have the same voting power, the user can define the number of leaves the tree will have, and the algorithm adjusts the “learning rate” based on the previous tree’s mistakes.
 
-##### Learning rate
+## learning rate
 it basically controls how quickly the model adapts to the problem…also called the “step size.”
 
 ## gboost and randomforest combined!
