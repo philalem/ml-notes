@@ -26,6 +26,7 @@ according to merriam-webster, machine learning is “the process by which a comp
 
 ## why use it?
 PREDICTION! we, as humans, have a hard time predicting the future; however, with machine learning, we can take a lot of the bias out of prediction in order to, hopefully, make it more accurate.
+we can also use machine learning for many other things. for many things humans can do, we can use machine learning to replicate it or even do it better.
 
 ## two types of learning...
 **supervised** and **unsupervised** learning. 
