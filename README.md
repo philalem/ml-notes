@@ -86,7 +86,7 @@ this combination is powerful in the way that you can also define how many trees 
 this is a great video series for some of the most important machine learning topics:
 https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF
 
-**sources I used to create this overview:**
+**sources I used to create this overview:**\
 https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF
 https://www.merriam-webster.com/dictionary/machine%20learning
 https://medium.com/quick-code/regression-versus-classification-machine-learning-whats-the-difference-345c56dd15f7
